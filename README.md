@@ -1,2 +1,3 @@
-# CSE102
-Computer Programming Homeworks
+# CSE102-Computer Programming-Gökhan Kaya
+
+
